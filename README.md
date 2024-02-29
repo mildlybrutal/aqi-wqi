@@ -15,12 +15,12 @@ It also adds user to check both air and water quality index according to their l
 ## Flowchart
 ```mermaid
 graph TD;
-   Start --> Title Page;
-   Title Page --> Click Button;
-   Click Button --> Goes to Next Page;
-   Goes to Next Page --> Search Location;
-   Search Location --> AQI-WQI Results;
-   AQI-WQI Results --> Consequences and possible Solutions;
+   Start --> Title_Page;
+   Title_Page --> Click_Button;
+   Click_Button --> Goes_to_Next_Page;
+   Goes_to_Next_Page --> Search_Location;
+   Search_Location --> AQI_WQI_Results;
+   AQI_WQI_Results --> Consequences_and_possible_Solutions;
 ```
 ## Tech Stack Used
 
