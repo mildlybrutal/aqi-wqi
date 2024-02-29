@@ -14,7 +14,7 @@ It also adds user to check both air and water quality index according to their l
 
 ## Flowchart
 ```mermaid
-graphTD;
+graph TD;
    Start --> Title Page;
    Title Page --> Click Button;
    Click Button --> Goes to Next Page;
