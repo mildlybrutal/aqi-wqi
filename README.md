@@ -9,7 +9,7 @@ Education and Outreach: Creating and disseminating educational materials, campai
 
 
 ## What does Ecometric Zenith do ?
-Our Website spreads awareness for improving out Air and Water quality index which is a major parameter to check our quality and gives us a chance to improve the air and water quality. 
+Our Website spreads awareness for improving our Air and Water quality index which is a major parameter to check our quality and gives us a chance to improve them. 
 It also adds user to check both air and water quality index according to their location ranging from 1-5 on the same page.
 
 ## Flowchart
@@ -33,3 +33,4 @@ Addition of Community Workshops and Campaign recommendations may improve the use
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
+## Made By Team Black Panthers. ID -> CB-3
