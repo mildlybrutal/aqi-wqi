@@ -1,0 +1,216 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: rgb(211,164,164)}
+h1{
+    color: #103a66;
+    text-align: center;
+}
+h3{
+    color: orangered;
+    text-align: center;
+}
+p{
+    line-height: 17px;
+    text-align: center;
+}
+button {
+    padding: 12.5px 30px;
+    border: 0;
+    border-radius: 100px;
+    background-color: #2ba8fb;
+    color: #ffffff;
+    font-weight: Bold;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+
+button:hover {
+    background-color: #6fc5ff;
+    box-shadow: 0 0 20px #6fc5ff50;
+    transform: scale(1.1);
+}
+
+button:active {
+    background-color: #3d94cf;
+    transition: all 0.25s;
+    -webkit-transition: all 0.5s;
+    box-shadow: none;
+    transform: scale(0.98);
+}
+button{
+    text-align: center;
+
+}
+.contact{
+    background-color:beige;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.social{
+    float: left;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+.mail{
+    float: right;
+}
+.mail{
+    font-size: 3vh;
+    font-weight: bold;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+.mail img {
+    width: 5vw;
+}
+.mail img:hover{
+    width: 5.5vw;
+}
+.contacting{
+    font-weight: bold;
+    font-size: 3vh;
+}
+#c-n{
+    color: blue;
+}
+#c-n:hover{
+    font-size: larger;
+}
+.contact{
+    background-color: #84da7e;
+    padding: 20px;
+}
+.social img{
+    width:5vw;
+}
+.social img:hover{
+    width:5.5vw;
+}
+.social{
+    font-size: 3vh;
+    font-weight: bold;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    margin: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+h3 {
+    color: #4CAF50;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.Container-1, .Container-2 {
+    margin: 10px 0;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.contact {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social a {
+    margin: 0 10px;
+}
+
+.mail {
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.contact {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social p {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.social a {
+    margin: 0 15px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.social img {
+    width: 40px; 
+    height: 40px;
+    border-radius: 50%;
+    transition: transform 0.3s ease-in-out;
+}
+
+.social img:hover {
+    transform: scale(1.2);
+}
+
+.mail {
+    margin-top: 20px;
+}
+
+.email-link img {
+    width: 40px; 
+    height: 40px; 
+    transition: transform 0.3s ease-in-out;
+}
+
+.email-link img:hover {
+    transform: scale(1.2);
+}
+
